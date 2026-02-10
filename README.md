@@ -39,22 +39,4 @@ A full-stack Next.js application deployed using a complete DevOps CI/CD pipeline
 - Deployed and managed application on AWS EC2
 - Debugged real-world Jenkins, Docker, and Git issues
 
-## ▶️ How to Run Locally
-```bash
-npm install
-npm run dev
 
-
-
-Save it.
-
----
-
-## 📤 STEP 4: Push Screenshots & README to GitHub
-
-In PowerShell:
-
-```powershell
-git add screenshots README.md
-git commit -m "Add README and CI/CD screenshots"
-git push
